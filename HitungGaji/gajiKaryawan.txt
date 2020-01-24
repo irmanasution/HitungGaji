@@ -1,0 +1,13 @@
+----------------------------------
+Nama Karyawan = Irma Nurlatifah Nasution
+NIK = 2110165016
+Jumlah Kehadiran = 17 hari
+Jumlah Lembur = 8 hari
+ 
+Gaji pokok = 3300000.0
+Uang makan = 1105000.0
+Tunjangan transport = 850000.0
+Tunjangan kesehatan = 200000.0
+Uang lembur = 400000.0
+TOTAL GAJI = Rp5855000.0
+----------------------------------
